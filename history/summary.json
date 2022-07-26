@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 91,
-    "timeWeek": 93,
+    "time": 141,
+    "timeDay": 57,
+    "timeWeek": 89,
     "timeMonth": 97,
     "timeYear": 142,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.03%",
     "time": 1338,
-    "timeDay": 1740,
-    "timeWeek": 1276,
-    "timeMonth": 1301,
-    "timeYear": 1338,
+    "timeDay": 1225,
+    "timeWeek": 1289,
+    "timeMonth": 1303,
+    "timeYear": 1339,
     "dailyMinutesDown": {
       "2022-07-22": 1025,
       "2022-07-21": 162,
@@ -47,8 +47,7 @@
       "2021-12-14": 96,
       "2021-11-23": 365,
       "2021-09-15": 18,
-      "2021-08-10": 104,
-      "2021-07-26": 25
+      "2021-08-10": 104
     }
   },
   {
@@ -57,18 +56,19 @@
     "icon": "https://favicons.githubusercontent.com/git.chanu.info",
     "slug": "git",
     "status": "down",
-    "uptime": "81.00%",
+    "uptime": "80.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.94%",
+    "uptimeYear": "80.66%",
     "time": 923,
-    "timeDay": 962,
-    "timeWeek": 926,
-    "timeMonth": 896,
+    "timeDay": 804,
+    "timeWeek": 880,
+    "timeMonth": 900,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2022-07-25": 122,
+      "2022-07-26": 139,
+      "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -143,8 +143,7 @@
       "2021-12-15": 686,
       "2021-12-14": 96,
       "2021-09-15": 18,
-      "2021-08-10": 104,
-      "2021-07-26": 39
+      "2021-08-10": 104
     }
   },
   {
@@ -158,11 +157,11 @@
     "uptimeWeek": "88.22%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.48%",
-    "time": 891,
-    "timeDay": 1498,
-    "timeWeek": 927,
-    "timeMonth": 945,
-    "timeYear": 891,
+    "time": 890,
+    "timeDay": 583,
+    "timeWeek": 888,
+    "timeMonth": 942,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2022-07-22": 1025,
       "2022-07-21": 162,

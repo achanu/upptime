@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 75,
-    "timeWeek": 79,
-    "timeMonth": 92,
+    "timeDay": 85,
+    "timeWeek": 76,
+    "timeMonth": 93,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -27,11 +27,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.89%",
     "time": 1343,
-    "timeDay": 1225,
-    "timeWeek": 1310,
-    "timeMonth": 1371,
+    "timeDay": 1373,
+    "timeWeek": 1289,
+    "timeMonth": 1372,
     "timeYear": 1352,
     "dailyMinutesDown": {
       "2022-11-25": 509,
@@ -47,8 +47,7 @@
       "2022-05-18": 23,
       "2022-05-13": 786,
       "2022-05-12": 950,
-      "2022-02-17": 26,
-      "2021-12-15": 686
+      "2022-02-17": 26
     }
   },
   {
@@ -57,18 +56,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "58.39%",
+    "uptime": "58.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "42.07%",
+    "uptimeYear": "41.83%",
     "time": 949,
-    "timeDay": 810,
-    "timeWeek": 1026,
-    "timeMonth": 960,
+    "timeDay": 955,
+    "timeWeek": 988,
+    "timeMonth": 970,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2022-12-14": 95,
+      "2022-12-15": 97,
+      "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
@@ -281,8 +281,7 @@
       "2022-05-18": 1440,
       "2022-05-17": 251,
       "2022-05-12": 940,
-      "2022-02-17": 26,
-      "2021-12-15": 686
+      "2022-02-17": 26
     }
   },
   {
@@ -295,12 +294,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "99.24%",
-    "time": 933,
-    "timeDay": 1244,
-    "timeWeek": 1082,
-    "timeMonth": 1031,
-    "timeYear": 945,
+    "uptimeYear": "99.27%",
+    "time": 934,
+    "timeDay": 1576,
+    "timeWeek": 1080,
+    "timeMonth": 1062,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2022-11-25": 509,
       "2022-11-24": 161,
@@ -310,8 +309,7 @@
       "2022-07-21": 162,
       "2022-05-20": 512,
       "2022-05-19": 97,
-      "2022-02-17": 25,
-      "2021-12-15": 686
+      "2022-02-17": 25
     }
   }
 ]

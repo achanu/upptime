@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 86,
-    "timeWeek": 84,
+    "timeDay": 69,
+    "timeWeek": 82,
     "timeMonth": 96,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -27,11 +27,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.27%",
     "time": 1385,
-    "timeDay": 1587,
-    "timeWeek": 1486,
-    "timeMonth": 1384,
+    "timeDay": 1201,
+    "timeWeek": 1444,
+    "timeMonth": 1368,
     "timeYear": 1371,
     "dailyMinutesDown": {
       "2023-03-31": 445,
@@ -44,8 +44,7 @@
       "2022-09-22": 168,
       "2022-07-22": 1025,
       "2022-07-21": 162,
-      "2022-06-21": 224,
-      "2022-05-20": 512
+      "2022-06-21": 224
     }
   },
   {
@@ -54,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "44.68%",
+    "uptime": "44.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1001,
-    "timeDay": 1978,
-    "timeWeek": 1305,
-    "timeMonth": 1103,
+    "time": 1002,
+    "timeDay": 1209,
+    "timeWeek": 1287,
+    "timeMonth": 1093,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-05-19": 81,
+      "2023-05-20": 79,
+      "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -428,8 +428,7 @@
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
-      "2022-05-21": 1440,
-      "2022-05-20": 1440
+      "2022-05-21": 1440
     }
   },
   {
@@ -442,12 +441,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
-    "time": 983,
-    "timeDay": 1035,
-    "timeWeek": 1134,
-    "timeMonth": 1038,
-    "timeYear": 1008,
+    "uptimeYear": "99.32%",
+    "time": 981,
+    "timeDay": 929,
+    "timeWeek": 1119,
+    "timeMonth": 1033,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2023-03-31": 429,
       "2023-03-30": 101,
@@ -457,8 +456,7 @@
       "2022-09-23": 577,
       "2022-09-22": 168,
       "2022-07-22": 1025,
-      "2022-07-21": 162,
-      "2022-05-20": 512
+      "2022-07-21": 162
     }
   }
 ]

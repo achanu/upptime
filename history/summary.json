@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 101,
-    "timeWeek": 128,
+    "timeDay": 85,
+    "timeWeek": 89,
     "timeMonth": 135,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.39%",
     "time": 1406,
-    "timeDay": 2003,
-    "timeWeek": 1380,
-    "timeMonth": 1423,
-    "timeYear": 1406,
+    "timeDay": 1139,
+    "timeWeek": 1344,
+    "timeMonth": 1424,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2023-07-17": 18,
       "2023-03-31": 445,
@@ -45,8 +45,7 @@
       "2022-11-05": 20,
       "2022-09-23": 576,
       "2022-09-22": 168,
-      "2022-07-22": 1025,
-      "2022-07-21": 162
+      "2022-07-22": 1025
     }
   },
   {
@@ -55,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "40.87%",
+    "uptime": "40.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1021,
-    "timeDay": 1156,
-    "timeWeek": 1073,
-    "timeMonth": 1062,
+    "timeDay": 726,
+    "timeWeek": 1034,
+    "timeMonth": 1046,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2023-07-20": 84,
+      "2023-07-21": 85,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -429,8 +429,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   },
   {
@@ -444,11 +443,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.40%",
-    "time": 1012,
-    "timeDay": 1192,
-    "timeWeek": 1176,
-    "timeMonth": 1165,
-    "timeYear": 1052,
+    "time": 1013,
+    "timeDay": 1241,
+    "timeWeek": 1173,
+    "timeMonth": 1159,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-07-17": 17,
       "2023-03-31": 429,
@@ -458,8 +457,7 @@
       "2022-11-24": 161,
       "2022-09-23": 577,
       "2022-09-22": 168,
-      "2022-07-22": 1025,
-      "2022-07-21": 162
+      "2022-07-22": 1025
     }
   }
 ]

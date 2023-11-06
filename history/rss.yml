@@ -1,7 +1,7 @@
 url: https://rss.chanu.info
-status: up
-code: 200
-responseTime: 1582
-lastUpdated: 2023-11-05T23:07:58.414Z
+status: down
+code: 502
+responseTime: 1178
+lastUpdated: 2023-11-06T21:59:31.218Z
 startTime: 2021-07-23T12:25:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>

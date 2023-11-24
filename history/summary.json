@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 89,
-    "timeWeek": 85,
+    "timeDay": 91,
+    "timeWeek": 88,
     "timeMonth": 105,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.62%",
-    "time": 1413,
-    "timeDay": 1728,
-    "timeWeek": 1439,
-    "timeMonth": 1473,
-    "timeYear": 1435,
+    "time": 1415,
+    "timeDay": 2188,
+    "timeWeek": 1593,
+    "timeMonth": 1470,
+    "timeYear": 1436,
     "dailyMinutesDown": {
       "2023-11-06": 19,
       "2023-09-21": 17,
@@ -46,8 +46,7 @@
       "2023-03-31": 445,
       "2023-03-30": 101,
       "2023-01-25": 17,
-      "2022-11-25": 509,
-      "2022-11-24": 161
+      "2022-11-25": 509
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "34.83%",
+    "uptime": "34.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1056,
-    "timeDay": 1415,
-    "timeWeek": 1006,
-    "timeMonth": 1092,
-    "timeYear": 1070,
+    "time": 1057,
+    "timeDay": 1617,
+    "timeWeek": 1142,
+    "timeMonth": 1099,
+    "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-11-23": 72,
+      "2023-11-24": 70,
+      "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
@@ -430,8 +430,7 @@
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
-      "2022-11-25": 1440,
-      "2022-11-24": 1440
+      "2022-11-25": 1440
     }
   },
   {
@@ -445,11 +444,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1064,
-    "timeDay": 1024,
-    "timeWeek": 1064,
-    "timeMonth": 1091,
-    "timeYear": 1070,
+    "time": 1067,
+    "timeDay": 2013,
+    "timeWeek": 1220,
+    "timeMonth": 1124,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2023-09-21": 16,
       "2023-09-18": 22,
@@ -460,8 +459,7 @@
       "2023-03-31": 429,
       "2023-03-30": 101,
       "2023-01-25": 16,
-      "2022-11-25": 509,
-      "2022-11-24": 161
+      "2022-11-25": 509
     }
   }
 ]

@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 157,
-    "timeWeek": 107,
+    "timeDay": 87,
+    "timeWeek": 104,
     "timeMonth": 100,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.58%",
-    "time": 1474,
-    "timeDay": 1532,
-    "timeWeek": 1269,
-    "timeMonth": 1472,
+    "time": 1475,
+    "timeDay": 1252,
+    "timeWeek": 1311,
+    "timeMonth": 1460,
     "timeYear": 1500,
     "dailyMinutesDown": {
       "2024-11-18": 20,
@@ -50,8 +50,7 @@
       "2024-02-12": 24,
       "2023-12-16": 43,
       "2023-12-08": 425,
-      "2023-12-07": 178,
-      "2023-11-28": 17
+      "2023-12-07": 178
     }
   },
   {
@@ -60,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "24.31%",
+    "uptime": "24.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1172,
-    "timeDay": 751,
-    "timeWeek": 1099,
-    "timeMonth": 1134,
+    "timeDay": 1068,
+    "timeWeek": 1140,
+    "timeMonth": 1125,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2024-11-26": 103,
+      "2024-11-27": 105,
+      "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -434,8 +434,7 @@
       "2023-12-02": 1440,
       "2023-12-01": 1440,
       "2023-11-30": 1440,
-      "2023-11-29": 1440,
-      "2023-11-28": 1440
+      "2023-11-29": 1440
     }
   },
   {
@@ -450,10 +449,10 @@
     "uptimeMonth": "98.48%",
     "uptimeYear": "99.61%",
     "time": 1069,
-    "timeDay": 1148,
-    "timeWeek": 1102,
-    "timeMonth": 1092,
-    "timeYear": 1069,
+    "timeDay": 1059,
+    "timeWeek": 1104,
+    "timeMonth": 1090,
+    "timeYear": 1070,
     "dailyMinutesDown": {
       "2024-11-14": 28,
       "2024-11-08": 478,

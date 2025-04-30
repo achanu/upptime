@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 89,
+    "timeDay": 104,
     "timeWeek": 96,
     "timeMonth": 114,
-    "timeYear": 110,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2024-05-01": 42
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
-    "time": 1388,
-    "timeDay": 1559,
-    "timeWeek": 1248,
-    "timeMonth": 1281,
+    "time": 1389,
+    "timeDay": 1621,
+    "timeWeek": 1320,
+    "timeMonth": 1296,
     "timeYear": 1376,
     "dailyMinutesDown": {
       "2025-03-14": 444,
@@ -63,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "21.59%",
+    "uptime": "21.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1191,
-    "timeDay": 1701,
-    "timeWeek": 1152,
-    "timeMonth": 1107,
-    "timeYear": 1191,
+    "time": 1184,
+    "timeDay": 1181,
+    "timeWeek": 1200,
+    "timeMonth": 1106,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2025-04-29": 110,
+      "2025-04-30": 110,
+      "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -437,8 +438,7 @@
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
-      "2024-05-01": 1440,
-      "2024-04-30": 1440
+      "2024-05-01": 1440
     }
   },
   {
@@ -453,9 +453,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 1049,
-    "timeDay": 1431,
-    "timeWeek": 1095,
-    "timeMonth": 1003,
+    "timeDay": 1185,
+    "timeWeek": 1113,
+    "timeMonth": 1010,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2025-03-14": 444,

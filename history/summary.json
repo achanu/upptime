@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 152,
-    "timeWeek": 131,
-    "timeMonth": 115,
-    "timeYear": 110,
+    "timeDay": 244,
+    "timeWeek": 153,
+    "timeMonth": 120,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
-    "time": 1379,
-    "timeDay": 901,
-    "timeWeek": 1146,
-    "timeMonth": 1258,
+    "time": 1381,
+    "timeDay": 1649,
+    "timeWeek": 1136,
+    "timeMonth": 1270,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2025-03-14": 444,
@@ -51,8 +51,7 @@
       "2024-09-06": 561,
       "2024-09-05": 163,
       "2024-07-10": 20,
-      "2024-07-04": 21,
-      "2024-05-27": 22
+      "2024-07-04": 21
     }
   },
   {
@@ -61,18 +60,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "21.17%",
+    "uptime": "21.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1203,
-    "timeDay": 1181,
-    "timeWeek": 1776,
-    "timeMonth": 1306,
-    "timeYear": 1194,
+    "timeDay": 1024,
+    "timeWeek": 1750,
+    "timeMonth": 1310,
+    "timeYear": 1193,
     "dailyMinutesDown": {
-      "2025-05-26": 117,
+      "2025-05-27": 112,
+      "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
@@ -435,8 +435,7 @@
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
-      "2024-05-28": 1440,
-      "2024-05-27": 1440
+      "2024-05-28": 1440
     }
   },
   {
@@ -450,10 +449,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 1044,
-    "timeDay": 1148,
-    "timeWeek": 1095,
-    "timeMonth": 1025,
+    "time": 1043,
+    "timeDay": 1060,
+    "timeWeek": 1078,
+    "timeMonth": 1034,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-03-14": 444,
@@ -465,8 +464,7 @@
       "2024-11-08": 478,
       "2024-11-07": 161,
       "2024-09-06": 561,
-      "2024-09-05": 162,
-      "2024-05-27": 21
+      "2024-09-05": 162
     }
   }
 ]

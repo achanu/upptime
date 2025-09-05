@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 73,
-    "timeWeek": 80,
-    "timeMonth": 126,
+    "timeDay": 72,
+    "timeWeek": 78,
+    "timeMonth": 125,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 1351,
-    "timeDay": 924,
-    "timeWeek": 1346,
-    "timeMonth": 1342,
-    "timeYear": 1328,
+    "timeDay": 1303,
+    "timeWeek": 1158,
+    "timeMonth": 1345,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2025-03-14": 444,
       "2025-03-13": 111,
@@ -48,8 +48,7 @@
       "2024-11-08": 478,
       "2024-11-07": 161,
       "2024-10-06": 19,
-      "2024-09-06": 561,
-      "2024-09-05": 163
+      "2024-09-06": 561
     }
   },
   {
@@ -58,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "19.75%",
+    "uptime": "19.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1181,
-    "timeDay": 680,
-    "timeWeek": 1148,
-    "timeMonth": 1217,
+    "timeDay": 917,
+    "timeWeek": 1087,
+    "timeMonth": 1221,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2025-09-04": 102,
+      "2025-09-05": 104,
+      "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -432,8 +432,7 @@
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
-      "2024-09-06": 1440,
-      "2024-09-05": 1440
+      "2024-09-06": 1440
     }
   },
   {
@@ -447,11 +446,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1038,
-    "timeDay": 962,
-    "timeWeek": 1092,
-    "timeMonth": 1006,
-    "timeYear": 1038,
+    "time": 1041,
+    "timeDay": 2606,
+    "timeWeek": 1256,
+    "timeMonth": 1065,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-03-14": 444,
       "2025-03-13": 111,
@@ -461,8 +460,7 @@
       "2024-11-14": 28,
       "2024-11-08": 478,
       "2024-11-07": 161,
-      "2024-09-06": 561,
-      "2024-09-05": 162
+      "2024-09-06": 561
     }
   }
 ]

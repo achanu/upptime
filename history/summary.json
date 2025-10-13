@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 86,
-    "timeWeek": 96,
-    "timeMonth": 93,
+    "timeDay": 198,
+    "timeWeek": 122,
+    "timeMonth": 100,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-13": 0
+    }
   },
   {
     "name": "RSS",
@@ -59,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "19.25%",
+    "uptime": "19.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -70,7 +72,7 @@
     "timeMonth": 1110,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2025-10-13": 111,
+      "2025-10-13": 1098,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,

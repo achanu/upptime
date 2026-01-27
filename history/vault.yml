@@ -1,7 +1,7 @@
 url: https://vault.chanu.info
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2026-01-26T23:15:19.668Z
+status: down
+code: 502
+responseTime: 996
+lastUpdated: 2026-01-27T06:50:51.537Z
 startTime: 2021-07-23T12:25:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>

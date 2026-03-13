@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 126,
-    "timeDay": 280,
-    "timeWeek": 125,
+    "timeDay": 102,
+    "timeWeek": 130,
     "timeMonth": 132,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.chanu.info.ico",
     "slug": "rss",
     "status": "down",
-    "uptime": "96.49%",
+    "uptime": "96.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "85.70%",
-    "time": 1307,
+    "uptimeYear": "85.43%",
+    "time": 1308,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1291,
+    "timeYear": 1292,
     "dailyMinutesDown": {
-      "2026-03-12": 153,
+      "2026-03-13": 151,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -95,8 +96,7 @@
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 166,
-      "2025-03-14": 444,
-      "2025-03-13": 111
+      "2025-03-14": 444
     }
   },
   {
@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "17.54%",
+    "uptime": "17.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -116,7 +116,8 @@
     "timeMonth": 0,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-03-12": 153,
+      "2026-03-13": 151,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -479,8 +480,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -495,10 +495,10 @@
     "uptimeMonth": "96.13%",
     "uptimeYear": "96.87%",
     "time": 1053,
-    "timeDay": 988,
-    "timeWeek": 1150,
-    "timeMonth": 1234,
-    "timeYear": 1051,
+    "timeDay": 1022,
+    "timeWeek": 1163,
+    "timeMonth": 1238,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2026-02-22": 534,
       "2026-02-21": 495,
@@ -521,8 +521,7 @@
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 166,
-      "2025-03-14": 444,
-      "2025-03-13": 111
+      "2025-03-14": 444
     }
   }
 ]

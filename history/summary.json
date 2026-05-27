@@ -33,7 +33,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.82%",
+    "uptimeYear": "64.79%",
     "time": 1300,
     "timeDay": 0,
     "timeWeek": 0,
@@ -52,7 +52,7 @@
       "2026-01-24": 1281,
       "2026-01-23": 1440,
       "2026-01-22": 168,
-      "2026-05-27": 1031,
+      "2026-05-27": 1177,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2026-05-27": 1031,
+      "2026-05-27": 1177,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -564,16 +564,16 @@
     "url": "https://vault.chanu.info",
     "icon": "https://icons.duckduckgo.com/ip3/vault.chanu.info.ico",
     "slug": "vault",
-    "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "82.22%",
-    "uptimeYear": "94.59%",
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "89.88%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "81.89%",
+    "uptimeYear": "94.56%",
     "time": 1181,
-    "timeDay": 1354,
-    "timeWeek": 2983,
-    "timeMonth": 2299,
+    "timeDay": 1260,
+    "timeWeek": 2781,
+    "timeMonth": 2269,
     "timeYear": 1246,
     "dailyMinutesDown": {
       "2025-09-21": 445,
@@ -629,7 +629,7 @@
       "2026-05-18": 218,
       "2026-05-19": 806,
       "2026-05-26": 469,
-      "2026-05-27": 0
+      "2026-05-27": 146
     }
   }
 ]

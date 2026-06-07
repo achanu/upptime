@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.chanu.info.ico",
     "slug": "rss",
     "status": "down",
-    "uptime": "91.77%",
+    "uptime": "91.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.95%",
+    "uptimeYear": "61.83%",
     "time": 1298,
     "timeDay": 0,
     "timeWeek": 0,
@@ -52,7 +52,7 @@
       "2026-01-24": 1281,
       "2026-01-23": 1440,
       "2026-01-22": 168,
-      "2026-06-07": 261,
+      "2026-06-07": 913,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -203,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2026-06-07": 261,
+      "2026-06-07": 913,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -575,10 +575,10 @@
     "url": "https://vault.chanu.info",
     "icon": "https://icons.duckduckgo.com/ip3/vault.chanu.info.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.46%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "87.91%",
     "uptimeYear": "94.53%",
     "time": 1254,
@@ -641,7 +641,8 @@
       "2026-05-19": 806,
       "2026-05-26": 469,
       "2026-05-27": 146,
-      "2026-06-05": 156
+      "2026-06-05": 156,
+      "2026-06-07": 0
     }
   }
 ]

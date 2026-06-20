@@ -11,8 +11,8 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.93%",
     "time": 124,
-    "timeDay": 56,
-    "timeWeek": 73,
+    "timeDay": 76,
+    "timeWeek": 75,
     "timeMonth": 86,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.chanu.info.ico",
     "slug": "rss",
     "status": "down",
-    "uptime": "91.15%",
+    "uptime": "91.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.66%",
+    "uptimeYear": "58.40%",
     "time": 1295,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1295,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-09-21": 445,
       "2025-09-20": 1440,
@@ -52,7 +52,8 @@
       "2026-01-24": 1281,
       "2026-01-23": 1440,
       "2026-01-22": 168,
-      "2026-06-19": 291,
+      "2026-06-20": 221,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -204,7 +205,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.chanu.info.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "16.57%",
+    "uptime": "16.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -213,9 +214,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1116,
+    "timeYear": 1117,
     "dailyMinutesDown": {
-      "2026-06-19": 291,
+      "2026-06-20": 221,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -578,8 +580,7 @@
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
-      "2025-06-21": 1440,
-      "2025-06-20": 1440
+      "2025-06-21": 1440
     }
   },
   {
@@ -587,17 +588,17 @@
     "url": "https://vault.chanu.info",
     "icon": "https://icons.duckduckgo.com/ip3/vault.chanu.info.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.82%",
-    "uptimeMonth": "93.23%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "94.27%",
-    "time": 1369,
-    "timeDay": 4314,
-    "timeWeek": 5543,
-    "timeMonth": 4217,
-    "timeYear": 1502,
+    "time": 1370,
+    "timeDay": 1741,
+    "timeWeek": 4648,
+    "timeMonth": 4286,
+    "timeYear": 1504,
     "dailyMinutesDown": {
       "2025-09-21": 445,
       "2025-09-20": 1440,
@@ -656,7 +657,8 @@
       "2026-06-05": 156,
       "2026-06-08": 740,
       "2026-06-07": 527,
-      "2026-06-17": 119
+      "2026-06-17": 119,
+      "2026-06-20": 0
     }
   }
 ]

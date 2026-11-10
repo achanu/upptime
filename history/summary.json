@@ -31,16 +31,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.chanu.info.ico",
     "slug": "rss",
     "status": "down",
-    "uptime": "84.39%",
+    "uptime": "84.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.01%",
+    "uptimeYear": "19.92%",
     "time": 1294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1292,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2025-11-24": 631,
       "2025-11-23": 1440,
@@ -50,7 +50,8 @@
       "2026-01-24": 1281,
       "2026-01-23": 1440,
       "2026-01-22": 168,
-      "2026-11-09": 973,
+      "2026-11-10": 17,
+      "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -354,9 +355,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1122,
+    "timeYear": 1124,
     "dailyMinutesDown": {
-      "2026-11-09": 973,
+      "2026-11-10": 17,
+      "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -719,8 +721,7 @@
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
-      "2025-11-11": 1440,
-      "2025-11-10": 1440
+      "2025-11-11": 1440
     }
   },
   {
@@ -728,17 +729,17 @@
     "url": "https://vault.chanu.info",
     "icon": "https://icons.duckduckgo.com/ip3/vault.chanu.info.ico",
     "slug": "vault",
-    "status": "down",
-    "uptime": "97.01%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "86.40%",
-    "time": 2146,
-    "timeDay": 1525,
-    "timeWeek": 2256,
-    "timeMonth": 3931,
-    "timeYear": 2443,
+    "status": "up",
+    "uptime": "97.00%",
+    "uptimeDay": "66.44%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "86.31%",
+    "time": 2143,
+    "timeDay": 1614,
+    "timeWeek": 2187,
+    "timeMonth": 3861,
+    "timeYear": 2445,
     "dailyMinutesDown": {
       "2025-11-24": 632,
       "2025-11-23": 1440,
@@ -839,7 +840,8 @@
       "2026-10-19": 576,
       "2026-11-01": 907,
       "2026-10-31": 513,
-      "2026-11-09": 0
+      "2026-11-10": 16,
+      "2026-11-09": 467
     }
   }
 ]
